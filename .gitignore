@@ -1,0 +1,17 @@
+# Virtual environment
+.sbn/
+
+# Datasets and experiment outputs
+data/
+output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+
+# Model checkpoints
+*.pt
+*.joblib
